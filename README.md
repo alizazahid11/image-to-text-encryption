@@ -15,7 +15,7 @@ The project aims to encrypt an image into text format using AES encryption and d
 ![App Screenshot](https://github.com/farzeenshahid/Image-To-Text-Encryption/blob/main/image%20to%20text/Assets/3rd-ss.png?raw=true)
 
 ## Live Demo
-[crypto-project016.netlify.app]((https://664508ecff379a6cdc461b28--transcendent-centaur-fb3da5.netlify.app/))
+[crypto-project016.netlify.app](https://664508ecff379a6cdc461b28--transcendent-centaur-fb3da5.netlify.app/)
 
 ## Files
 - index.html: The landing page of the project, displaying project information and team members.
